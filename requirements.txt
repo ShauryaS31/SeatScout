@@ -66,13 +66,11 @@ libclang==18.1.1
 Markdown==3.7
 matplotlib==3.9.2
 mdurl==0.1.2
-mediapipe==0.10.18
 ml-dtypes==0.4.1
 mpmath==1.3.0
 narwhals==1.9.4
 networkx==3.4.1
 numpy==1.26.4
-opencv-contrib-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 opt-einsum==3.3.0
 optree==0.13.0
