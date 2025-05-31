@@ -1,0 +1,6 @@
+train: /mnt/c/Users/mohda/.vscode/seatscout/data/dataset_v5/images/train
+val: /mnt/c/Users/mohda/.vscode/seatscout/data/dataset_v5/images/val
+test: /mnt/c/Users/mohda/.vscode/seatscout/data/dataset_v5/images/test
+
+nc: 2
+names: ['human', 'chair']
