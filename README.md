@@ -19,8 +19,8 @@ To run SeatScout, you need to have Python installed on your system, along with S
 
 ## Prerequisites:
 
-Python (3.x recommended)
-Streamlit
+- Python (3.x recommended)
+- Streamlit
 
 ## Install Dependencies:
 It is recommended to create a virtual environment first.
