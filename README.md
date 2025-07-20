@@ -11,18 +11,18 @@ Custom Dataset: Developed and annotated a unique synthetic dataset using ChatGPT
 
 UTS AI Showcase Participant: Selected to present at the UTS AI Showcase, recognizing it as a top project among 100+ submissions.
 
-Pitch Video
+## Pitch Video
 Watch our Pitch video here - https://www.youtube.com/watch?v=gv9jatp9rOk
 
-Setup and Installation
+## Setup and Installation
 To run SeatScout, you need to have Python installed on your system, along with Streamlit.
 
-Prerequisites:
+## Prerequisites:
 
 Python (3.x recommended)
 Streamlit
 
-Install Dependencies:
+## Install Dependencies:
 It is recommended to create a virtual environment first.
 
 How to Run
